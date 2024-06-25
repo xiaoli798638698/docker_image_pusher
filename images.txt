@@ -1,3 +1,4 @@
 alpine
 python:alpine3.19
 busybox
+redis:3.2
